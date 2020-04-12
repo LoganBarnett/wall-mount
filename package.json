@@ -17,7 +17,7 @@
   "author": "Logan Barnett (logustus@gmail.com)",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.16.0",
+    "axios": "0.19.2",
     "body-parser": "^1.17.1",
     "d3": "^4.7.4",
     "express": "^4.15.2",
